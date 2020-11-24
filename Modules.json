@@ -1,0 +1,6 @@
+{
+    "TestModule":{
+        "Type":0,
+        "Source":"print(\"Hello, world!\")"
+    }
+}
